@@ -1,2 +1,1 @@
-# Invader
-Prompt for ZimFW.
+# Invader Prompt
