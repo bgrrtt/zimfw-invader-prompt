@@ -1,5 +1,6 @@
 # vim:et sts=2 sw=2 ft=zsh
 # =============================================================================
+
 # Invader Prompt
 # ========================
 # Requires zimfw's git-info module
@@ -59,6 +60,7 @@ invader_git_active_remote () {
     echo $git_status_str
 }
 
+
 # =============================================================================
 # Docker
 
@@ -81,6 +83,7 @@ invader_docker_status() {
         echo -n ")"
     fi
 }
+
 
 # =============================================================================
 # Kubernetes Control Context
